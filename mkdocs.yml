@@ -1,0 +1,4 @@
+site_name: WS03 Jornada de Dados
+nav:
+    - Home: index.md
+    - About: about.md
