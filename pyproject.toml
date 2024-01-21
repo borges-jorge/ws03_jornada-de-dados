@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ws03_jornada-de-dados"
+version = "0.1.0"
+description = "Workshop de engenheria de dados: Como montar o DW de baixo custo"
+authors = ["Jorge Borges"]
+
+[tool.poetry.dependencies]
+python = "3.11.5"
+pre-commit = "^3.6.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
